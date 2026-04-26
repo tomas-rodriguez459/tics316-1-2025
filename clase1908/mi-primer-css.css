@@ -1,11 +1,13 @@
 .fila{
+    width: 50%;
     display: flex;
 }
 .columna{
-    width: 33%;
-    text-align: center;
+    width: 50%;
+    text-align: left;
+    line-height: 0.2;
 }
 .evaluacion{
-    width: 100%;
-    text-align: center;
+    width: 50%;
+
 }
